@@ -6,3 +6,4 @@ Limonata Tarifi
 5) Buz
 6) Çiwçek
 7) Bardak
+8) deneme
